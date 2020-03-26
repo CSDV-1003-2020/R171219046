@@ -8,7 +8,7 @@ void main()
     for(int i=0; i<15; ++i)
 >>>>>>> test
     {
-	    cout<<"hello Terminal"<<endl;
+	    cout<<"YAY Terminal"<<endl;
     }
 
    
